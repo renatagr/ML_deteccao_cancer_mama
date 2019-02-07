@@ -1,5 +1,7 @@
 # ML_deteccao_cancer_mama
 Uso de técnicas de machine learning para detecção de cancer de mama (Aprendizado Supervisionado)
+- Algoritmos utilizados: SVC e KNN
+- Modelo: Classificação
 
 
 - Python: 3.6.5 |Anaconda, Inc.| (default, Mar 29 2018, 13:32:41) [MSC v.1900 64 bit (AMD64)]
